@@ -6,7 +6,7 @@ A full-stack, real-time multiplayer drawing and guessing game built with **React
 
 ## 🌟 Live Demo & Deployment
 
-- **Live URL**: `https://skribbl-clone.onrender.com` *(or your deployed Render/Railway instance)*
+- **Live URL**: https://scribble-clone-h3xi.onrender.com/
 - **One-Click Deploy Platforms**: Render, Railway, Fly.io, or Heroku.
 
 ---
